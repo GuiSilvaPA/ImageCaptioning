@@ -1,5 +1,10 @@
 # Image Captioning
 
+## Autores
+
+Gabriel Victor de Sousa Lopes - Doutorando na Unicamp
+Guilherme Pereira Albino da Silva - Mestrando na Unicamp
+
 ## Introduction
 
 Existem hoje diversas arquiteturas que alcançaram o estado da arte em tarefas de NLP (Natural Language Problem), assim como arquiteturas voltadas para o processamento de imagens. Contudo, tem-se tornado muito comum em diversas frentes de pesquisa realizar a combinação de tais tarefas, implementando modelos capazes de extrair informações de interesse em imagens e gerando descrições textuais das mesmas.
