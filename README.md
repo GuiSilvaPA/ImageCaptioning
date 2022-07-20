@@ -3,6 +3,7 @@
 ## Autores
 
 Gabriel Victor de Sousa Lopes - Doutorando na Unicamp
+
 Guilherme Pereira Albino da Silva - Mestrando na Unicamp
 
 ## Introduction
